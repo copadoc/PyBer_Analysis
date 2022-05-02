@@ -7,6 +7,7 @@ PyBer Analysis
 
   
 In juxtaposition, a clear and key difference between Rural and Urban data is the average fare per ride. In Rural cities, the average fare is much higher than in Urban cities.
+
 <img width="283" alt="average ride" src="https://user-images.githubusercontent.com/99380969/166183936-2807d8c2-4ced-4635-9684-2fc84a8775ed.png">
 
 	In summary, the recommendations to the company CEO are as follows: The amount of drivers in Urban cities are more than what is needed, if the company is to succeed in rural communities, it can increase the amount of drivers in rural areas which will bring average cost per ride down but it can also increase the amount of rides due to this. In addition, increasing the amount of drivers to suburban areas will also help increase revenue by decreasing the cost per ride. Finally, the company will decrease costs in labor by spreading drivers to each city location to match demand.
